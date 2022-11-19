@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-webflow</title>
+    <g id="New-Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Portfolio" transform="translate(-910.000000, -1389.000000)" fill="#FFFFFF">
+            <g id="icon-webflow" transform="translate(910.000000, 1389.000000)">
+                <rect id="Rectangle-Copy-5" opacity="0" x="0" y="0" width="70" height="70" rx="35"></rect>
+                <g id="Group" transform="translate(17.880000, 23.480000)" fill-rule="nonzero">
+                    <g id="webflow-logo">
+                        <path d="M27.7423847,7.60313316 L24.4612707,17.9442994 C24.4612707,17.1523064 22.1984334,0 22.1984334,0 C16.9939077,0 14.2332463,3.68842472 12.7850305,7.60313316 L8.77980853,17.9669278 C8.77980853,17.2201915 8.21409922,7.69364665 8.21409922,7.69364665 C7.81424441,3.42522163 4.28576719,0.130032162 0,0.0226283725 L4.25413403,26 C9.68494343,26 12.6266319,22.3115753 14.1427328,18.3968668 L17.5369887,9.57180157 C17.5369887,9.93385553 19.7998259,26 19.7998259,26 C24.3569437,25.9941405 28.3852316,23.0370109 29.7563098,18.6910357 L37.4499565,0 C32.0191471,0 29.1679721,3.68842472 27.7197563,7.60313316 L27.7423847,7.60313316 Z" id="webflow"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

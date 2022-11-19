@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="39px" height="39px" viewBox="0 0 39 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 3</title>
+    <g id="New-Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Project-1" transform="translate(-750.000000, -902.000000)">
+            <g id="Group-3" transform="translate(750.500000, 902.500000)">
+                <rect id="Rectangle-Copy-7" fill="#312120" opacity="0.0859520322" x="0" y="0" width="38" height="38" rx="19"></rect>
+                <g id="Group" transform="translate(7.500000, 7.500000)" fill="#000000" fill-rule="nonzero">
+                    <g id="Path" transform="translate(5.000000, 5.000000)">
+                        <path d="M0,1 C0,0.44772 0.44772,0 1,0 L13,0 C13.5523,0 14,0.44772 14,1 L14,3 C14,3.55228 13.5523,4 13,4 L1,4 C0.44772,4 0,3.55228 0,3 L0,1 Z"></path>
+                        <path d="M0,7 C0,6.44771 0.44772,6 1,6 L7,6 C7.5523,6 8,6.44771 8,7 L8,13 C8,13.5523 7.5523,14 7,14 L1,14 C0.44772,14 0,13.5523 0,13 L0,7 Z"></path>
+                        <path d="M11,6 C10.4477,6 10,6.44771 10,7 L10,13 C10,13.5523 10.4477,14 11,14 L13,14 C13.5523,14 14,13.5523 14,13 L14,7 C14,6.44771 13.5523,6 13,6 L11,6 Z"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /FanCrater_Prototype
+Disallow: /branko-temp-3
